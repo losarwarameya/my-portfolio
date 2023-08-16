@@ -1,0 +1,1 @@
+This file gives overview and detail about the main project i.e. portfolio site.
